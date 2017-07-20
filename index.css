@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+}
+
+header{
+ /* margin60px;*/
+  height: 100px;
+background: #e6c5c5;
+border-radius: 50px;
+  margin-right: : 2em;
+  width: 100%;
+  z-index: 10;
+  position: fixed;
+}
+
+#banner{
+
+  background: url(Cryptocurrency-Market-Valuation-1200x788.png);
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+  position:absolute;
+  top:150px;
+}
+#content{
+  font-size: 30px;
+  width: 100%;
+  position: relative;
+  top: 700px;
+  background: #ebebeb;
+  height: 800px;
+}
